@@ -1,0 +1,23 @@
+{
+  "name": "apv-backend",
+  "version": "1.0.0",
+  "description": "Aprendiendo JS FullStack",
+  "homepage": "https://github.com/FrancisoRocha/AppFullStack#readme",
+  "bugs": {
+    "url": "https://github.com/FrancisoRocha/AppFullStack/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrancisoRocha/AppFullStack.git"
+  },
+  "license": "ISC",
+  "author": "Francisco Rocha",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
